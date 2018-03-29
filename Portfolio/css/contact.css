@@ -1,0 +1,16 @@
+header {
+    margin-top: 65px;
+}
+
+.contacts-wrapper #info {
+    margin-top: 80px;
+    list-style: none;
+}ё
+
+.mail-icon {
+    width: 30px;
+    height: 30px;
+    background: url(/icons/email.png) no-repeat;
+    display: inline-block;
+    background-size: 30px 30px;
+}

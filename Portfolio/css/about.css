@@ -1,0 +1,13 @@
+#photo {
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+    width: 35%;
+    float: left;
+}
+
+#about-info{
+    margin-top: 90px;
+}
+
+

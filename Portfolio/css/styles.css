@@ -1,0 +1,32 @@
+#wrapper {
+    text-align: center;
+    margin-top: 60px;
+}
+
+
+img {
+    border-radius: 10px;
+}
+
+#gallery a {
+    display: block;
+}
+
+#gallery {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    height: 330px;
+}
+
+
+#gallery li {
+    margin: 2.5%;
+    width: 45%;
+    float: left;
+    color: #fff;
+}
+
+#gallery li a p {
+    color: dimgray;
+}
